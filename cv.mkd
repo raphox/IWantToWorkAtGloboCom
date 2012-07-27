@@ -1,9 +1,216 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Entretenimento
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Sobre mim
+---------
+
+Nascimento: 18 de janeiro de 1985. Caratinga – MG
+Estado civil: Casado
+Nacionalidade: Brasileira
+Email: raphox.araujo@gmail.com
+Twitter: @raphox
+
+Objetivos
+---------
+
+Tenho objetivo em atuar como desenvolvedor de aplicações web, utilizando web standards e semântica, seguindo normas elaboradas pela W3C. A Elaboração de design web seguindo técnicas de estudos de interface homem máquina, agregado tecnologias atualmente utilizadas (AJAX, Tableless, CSS, etc) são características alvos do meu desenvolvimento.
+
+Formação Acadêmica
+------------------
+
+2006 Bacharel em Ciência da Computação
+FIC – Faculdades Integradas de Caratinga
+www.ficmg.edu.br
+
+Cursos Extracurriculares
+------------------------
+
+* OpenGL (C/C++)
+
+  > Faculdades Integradas de Caratinga
+  > 01/07/2004 – 02/07/2004
+  > PHP-Nuke
+
+* Faculdades Integradas de Caratinga
+
+  > 03/07/2004 – 04/07/2004
+  > Zope-Plone
+
+* Instituto Doctum de Educação e Tecnologia
+
+  > 02/01/2006 – 13/01/2006
+  > Principais Eventos
+
+* XXIV Congresso da Sociedade Brasileira de Computação
+
+  > Integração e Diferenças Regionais: O papel da Computação
+  > Período: 31/06/2006 a 06/07/2006
+
+* XXII Encontro Nacional dos Estudantes de Computação
+
+  > Período: 02/06/2006 a 06/07/2006
+
+Experiência Profissional
+------------------------
+
+* __Agence Consultoria e Desenvolvimento para Web Ltda (http://www.agence.com.br)__
+
+  A Agence Consultoria e Desenvolvimento Web é especializada em consultoria, análise, projeto, planejamento, desenvolvimento e manutenção de aplicações Web, incluindo intranets, extranets, lojas virtuais e websites. Atendendo as expectativas do cliente com alta qualidade em equilíbrio com o orçamento disponível.
+
+  * __Desenvolvimento web__ : 12/2006 - dias atuais Desenvolvimento de sites e sistemas em PHP, Ruby e Java.
+
+* __Instituto Doctum de Educação e Pesquisa (http://www.doctumtec.com.br)__
+
+  Criado em 1998, o Instituto Doctum é uma sociedade civil, com atuação no ensino, pesquisa e extensão no interior do país. Surgiu no cenário educacional brasileiro há 6 anos, com o propósito de marcar uma nova fase do ensino superior, a partir de um projeto de formação profissional de ponta e sólida base humanista. Presente em oito cidades de Minas Gerais e duas do Espírito Santo, o grupo vem se destacando pelo ensino oferecido e pelos projetos desenvolvidos nas comunidades onde encontra-se inserido.
+
+  * __Desenvolvimento web__ : 11/2005 – 11/2006 Participação no projeto do desenvolvimento dos Sites das Faculdades Doctum e Faculdades Integradas de Caratinga. Utilizando as tecnologias Python, Zope, Plone, PHP, Mysql.
+  * __Serviços Educacionais__ : Atuando como membro do grupo de estudos em OpenGL nas Faculdades Integradas de Caratinga.
+
+* __Prodata Informática e Cadastros LTDA (http://www.prodatanet.com.br)__
+
+  * __Suporte de internet Dial-up__ : 03/2003 a 11/2004 Prestando serviço de suporte ao cliente de internet Dial-up.
+  * __Desenvolvimento web__ : 03/2003 a 11/2004 Prestando serviço de desenvolvedor de conteúdo, software e design de aplicações web.
+
+Trabalhos e Projetos
+--------------------
+
+* Portal Aids
+
+  > **Introdução** : Site com páginas sobre a empresa, blog, revista digital, newsletter e biblioteca de publicações do Instituto Ambiental da Amazônia.
+
+  > **Tecnologias** : PHP, Drupal, Windows e Mysql.
+
+  > **Desenvolvimento** : Programação e design (recorte).
+
+  > **Cliente** : Departamentos de DST, Aids e Hepatites Virais do Governo Federal - www.aids.gov.br.
+
+* Toyota Tsusho
+
+  > **Introdução** : Site com páginas sobre a empresa, blog, newsletter e gerenciamento de tickets.
+
+  > **Tecnologias** : PHP, Wordpress, Linux, Rails e Mysql.
+
+  > **Desenvolvimento** : Programação e design (recorte).
+
+  > **Cliente** : A Toyota Tsusho Corporation foi fundada em 1948 e tem sede em Nagoya e Tóquio, no Japão. Trata-se de uma corporação que trabalha em vários segmentos, sendo eles metais, bens de consumo, alimentos, energia e químicos, automotivo, máquinas e eletrônicos. Aliando um espírito empreendedor, o poder de equipe e a real necessidade dos clientes, o grupo desenvolve seus valores e objetivos.
+
+* Sisplan - Sistema de Planejamento Estratégico
+
+  > **Introdução** : Sistema interno de cadastramento de ações estratégicas relacionadas as unidades operacionais do Serviço Florestal Brasileiro.
+
+  > **Tecnologias** : PHP, Symfony, Linux e Mysql.
+
+  > **Desenvolvimento** : Programação.
+
+  > **Cliente** : Serviço Florestal Brasileiro - www.florestal.gov.br.
+
+* Website IPAM
+
+  > **Introdução** : Site com páginas sobre a empresa, blog, revista digital, newsletter e biblioteca de publicações do Instituto Ambiental da Amazônia.
+
+  > **Tecnologias** : PHP, Symfony, Linux e Mysql.
+
+  > **Desenvolvimento** : Programação e implantação.
+
+  > **Cliente** : IPAM (Instituto Ambiental da Amazônia) - www.ipam.org.br.
+
+* Sistema de informações de mercado
+
+  > **Introdução** : Sistema de relatórios de vendas de auto e leves emplacados em todo o Brasil. Com monitoramento por concessionárias, modelos, cidades e campanhas.
+
+  > **Tecnologias** : Ruby, Ruby on Rails, Linux e Postgree.
+
+  > **Desenvolvimento** : Programação, Design (criação e recorte) e implantação.
+
+  > **Cliente** : ABRACAM (Assiciação Brasileira de Distribuidores de Automóvies Mercedes-benz - www.abracam.org.br) e ABRADIT (Assiciação Brasileira de Distribuidores Toyota - www.abradit.org.br).
+
+* (UP) Premium Campanha de insentivo a funcionários
+
+  > **Introdução** : Sistema de gerencia de campanhas de insentivos à funcionários de grandes empresas como Unimed, Oi, Scott, Yazigi, Phillip Morris, etc. O sistema fornece relatórios das campanhas e proporciona um CMS que auxilia no desenvolvimento de sites personalizados para cada campanha.
+
+  > **Tecnologias** : Ruby, Ruby on Rails, Linux e Mysql.
+
+  > **Desenvolvimento** : Programação, Design e implantação.
+
+  > **Cliente** : Doup Digital - www.uppremium.com.br.
+
+Trabalhos Acadêmicos
+--------------------
+
+* UTILIZAÇÃO DE PADRÕES NO DESENVOLVIMENTO WEB
+
+  > Projeto voltado para pesquisa e aplicação de padrões e tecnologias atualmente utilizados em aplicativos web, utilizando as linguagens Java, JavaScript, XML, XSLT, (X)HTML e MySQL.
+  > 06/2005 FIC – Faculdades Integradas de Caratinga.
+  > Congressos e Eventos
+
+* Freedom Day 2008 - Campo Grande MS
+
+  > Palestra "Seja 'Smarty' na arte do desenvolvimento"
+
+* Dia D (Debian) 2008 - Campo Grande MS
+
+  > Participante
+  
+* Dia D (Debian) 2007 - Campo Grande MS
+
+  > Palestrante sobre Web 2.0
+
+* XXIV Congresso da Sociedade Brasileira de Computação 2004 - Salvador BA
+
+  > Participante
+
+* Encontro Nacional de Estudantes de Computação 2004 - Salvador BA
+
+  > Participante
+
+Conhecimentos na área de informática
+------------------------------------
+
+### Linguagens:
+
+* C / C++ – Linguagem de programação, sendo que a segunda é orientada a objeto – nível avançado;
+* MySQL – Sistema de gerenciamento de banco de dados que utiliza a linguágem SQL - nível avançado;
+* Java – Linguagem de programação orientada a objeto – nível básico;
+* PHP – linguagem de programação interpretada – nível avançado;
+* Ruby - linguagem de programação interpretada – nível avançado;
+* (X)HTML – Linguagem de marcação utilizada para produzir páginas para internet – nível avançado;
+* XML - É uma recomendação da W3C para gerar linguagens de marcação para necessidades especiais – nível intermediário;
+* XSLT - É uma linguagem de marcação XML usada para transformar documentos XML – nível intermediário;
+* CSS – Linguagem de estilos para aplicações XML, e outras ML´s (XHTML, HTML, ...) – nível avançado;
+* JavaScript – É uma linguagem script de programação para execução client-side – nível intermediário;
+
+### Ferramentas:
+
+* Facebook - Desenvolvimento de Fanpages e Aplicativos
+* Drupal - Gerenciador de conteúdo desenvolvido em PHP
+* Wordpress - Gerenciador de conteúdo desenvolvido em PHP
+* Eclipse – Ferramenta para desenvolvimento de aplicativos C++/Java/PHP/ect.;
+* Netbeans – Ferramenta para desenvolvimento de aplicativos Java/PHP/Ruby/ect.;
+* Aptana - Ferramenta para desenvolvimento de aplicativos Ruby/Javascript/PHP/ect.;
+* Blender 3D – Ferramenta de desenvolvimento de imagens em 3D – nível intermediário;
+* Adobe Flash - Ferramenta para desenvolvimento de aplicativos web e animações, nível básico;
+* Adobe Fireworks - Ferramenta para desenho gráfico edição de imagens, nível avançado;
+* Adobe Dreamweaver - Ferramenta para desenvolvimento de aplicativos web, nível intermediário;
+* Corel Draw – Ferramenta de desenho vetorial, nível avançado;
+
+### Outros:
+
+* Instalação, configuração e conhecimento avançado em Windows.
+* Conhecimentos básicos de desenvolvimento em Sistema Linux.
+* Controle de versão por SVN e CVS.
+* Frameworks para aplicaçoes web:
+  
+  * PHP Symfony;
+  * Ruby on Rails;
+  * Javascript (Prototype e JQuery)
+
+
+### Idiomas
+
+* Português.
+* Inglês técnico.
